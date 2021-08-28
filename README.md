@@ -40,7 +40,7 @@ colorscheme neovim_purple
 ```lua
 vim.cmd('colorscheme neovim_purple')
 ```
-### Enabel on lualine
+### Enabel theme on lualine
 ```lua
 require('lualine').setup({
     options = {
