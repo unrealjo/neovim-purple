@@ -189,6 +189,11 @@ local function set_groups()
     NotifyINFOTitle = { fg = colors.string },
     NotifyDEBUGTitle = { fg = colors.ui },
     NotifyTRACETitle = { fg = colors.entity },
+
+    -- Signify
+    SignifySignAdd   = {fg =colors.vcs_added} ,
+    SignifySignDelete = {fg = colors.vcs_removed} ,
+    SignifySignChange =  {fg = colors.vcs_modified} ,
   }
 
   local overrides = vim.g.neovim_purple_overrides
