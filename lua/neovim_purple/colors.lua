@@ -34,8 +34,8 @@ function colors.generate()
       colors.panel_border = '#242450'
       colors.gutter_normal = '#28284E'
       colors.gutter_active = '#1E1E3F'
-      colors.selection_bg = '#7d44b2'
-      colors.selection_inactive = '#19033D'
+      colors.selection_bg = '#19033D'
+      colors.selection_inactive = '#7AFFF5'
       colors.selection_border = '#232A4C'
       colors.guide_active = '#28284E'
       colors.guide_normal = '#1E1E3F'
@@ -44,7 +44,7 @@ function colors.generate()
       colors.vcs_removed = '#FF000D'
       colors.menu_bg    ='#05011A'
       colors.menu_fg = "#D6CFFB"
-      colors.menu_selected = "#252243"
+      colors.menu_selected = "#730137"
 
       colors.vcs_added_bg = '#313D37'
       colors.vcs_modified_bg = '#323A4C'

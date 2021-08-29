@@ -62,7 +62,7 @@ local function set_groups()
     TabLineFill = { fg = colors.fg, bg = colors.panel_border },
     TabLineSel = { fg = colors.fg, bg = colors.bg },
     Title = { fg = colors.keyword },
-    Visual = { bg = colors.selection_inactive },
+    Visual = { bg = colors.selection_bg },
     WarningMsg = { fg = colors.warning },
 
     Comment = { fg = colors.comment },
