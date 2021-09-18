@@ -52,6 +52,6 @@ require('lualine').setup({
 
 ## Options
 ```lua
--- Set the value to 1 if you want a transprent background
+-- Set the value to 1 if you want a transparent background
 vim.g.nobackground = 1 -- Default 0
 ```
