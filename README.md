@@ -52,6 +52,6 @@ require('lualine').setup({
 
 ## Options
 ```lua
--- Set the value to 1 if yout dont want the background to be a solid color
+-- Set the value to 1 if you want a transprent background
 vim.g.nobackground = 1 -- Default 0
 ```
