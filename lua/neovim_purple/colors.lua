@@ -34,7 +34,7 @@ function colors.generate()
       colors.panel_border = '#242450'
       colors.gutter_normal = '#28284E'
       colors.gutter_active = '#1E1E3F'
-      colors.selection_bg = '#19033D'
+      colors.selection_bg = '#3E015F'
       colors.selection_inactive = '#7AFFF5'
       colors.selection_border = '#232A4C'
       colors.guide_active = '#28284E'
