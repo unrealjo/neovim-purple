@@ -119,6 +119,8 @@ local function set_groups()
 
     -- TreeSitter
     TSProperty = { fg = colors.tag },
+    TSTag= { fg = colors.entity },
+    TSTagDelimiter  = { fg = colors.entity },
     TSField = { fg = colors.tag },
     TSParameter = { fg = colors.fg },
     TSUnderline = { sp = colors.tag, style = 'underline' },
